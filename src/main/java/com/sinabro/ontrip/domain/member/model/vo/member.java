@@ -108,5 +108,8 @@ public class member {
         this.modifyDate = modifyDate;
     }
 
+    public void jiho(){
+
+    }
 
 }
