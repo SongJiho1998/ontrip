@@ -27,7 +27,7 @@ dependencies {
     compileOnly('javax.xml.ws:jaxws-api:2.3.1')
     compileOnly('javax.jws:javax.jws-api:1.1')
     implementation('org.hibernate.validator:hibernate-validator:6.2.0.Final')
-
+    implementation('org.projectlombok:lombok:1.18.24')
     testImplementation("org.junit.jupiter:junit-jupiter-api:${junitVersion}")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:${junitVersion}")
 }
