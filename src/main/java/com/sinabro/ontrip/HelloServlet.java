@@ -1,4 +1,4 @@
-package com.example.ontrip;
+package com.sinabro.ontrip;
 
 import java.io.*;
 import javax.servlet.http.*;

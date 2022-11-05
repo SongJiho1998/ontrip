@@ -1,4 +1,4 @@
-package com.example.ontrip.domain.member.model.vo;
+package com.sinabro.ontrip.domain.member.model.vo;
 
 import java.util.Date;
 
@@ -107,4 +107,6 @@ public class member {
     public void setModifyDate(Date modifyDate) {
         this.modifyDate = modifyDate;
     }
+
+
 }
