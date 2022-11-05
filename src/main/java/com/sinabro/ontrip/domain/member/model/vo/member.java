@@ -42,7 +42,7 @@ public class member {
 
     public String getMemberName() {
         return memberName;
-    }
+    }d
 
     public String getGender() {
         return gender;
