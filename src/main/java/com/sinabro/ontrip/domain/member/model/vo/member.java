@@ -108,5 +108,7 @@ public class member {
         this.modifyDate = modifyDate;
     }
 
+    public void dd(){
 
+    }
 }
